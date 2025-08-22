@@ -1,0 +1,8 @@
+{
+  "name": "centos",
+  "tagline": "The free RHEL that was… until it wasn’t.",
+  "lines": [
+    "You believed in stability until the end of time — or until Stream happened.",
+    "Your servers probably still run CentOS 7."
+  ]
+}

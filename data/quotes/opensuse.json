@@ -1,0 +1,9 @@
+{
+  "name": "opensuse",
+  "tagline": "YaST and snapshots are your best friends.",
+  "lines": [
+    "Btrfs is your comfort filesystem.",
+    "You snapshot before breakfast."
+  ]
+}
+
