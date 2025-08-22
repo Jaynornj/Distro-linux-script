@@ -1,0 +1,8 @@
+{
+  "name": "Debian",
+  "tagline": "You value stability, reproducibility, and calm.",
+  "lines": [
+    "If it ain’t stable, it ain’t shipping.",
+    "You read changelogs for fun."
+  ]
+}
